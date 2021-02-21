@@ -4,7 +4,7 @@
 
 (asdf:defsystem #:L-portable-pathnames
   :description "Common Lisp portable pathnames library"
-  :author ("")
+  :author ("Peter Seibel")
   :license "MIT"
   :version "0.1.0"
   :depends-on ()
